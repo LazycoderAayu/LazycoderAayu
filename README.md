@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lazycoderaayuh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Website named (lets know something new about animals**
+- 🔭 I’m currently working on **Website named (lets know something new about animals.**
 
 - 🌱 I’m currently learning **Html,css,JavaScript,python,coding,php (inshort everything**
 
