@@ -1,4 +1,4 @@
-<img src=" https://imgflip.com/gif/4n0ant" >
+<img src="tenor.gif" >
 <h1 align="center">Hi 👋, I'm LazycoderAayu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
