@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aayushsonkar45@gmail.com**
 
-- ⚡ Fun fact **I study in 8th standard and my age is 13yo but i am topper in it 🙃**
+- ⚡ Fun fact **I study in 8th standard and my age is 13yo but i am topper in IT and ican do so much things like- programming,coding,designing,web development and many more things even i learned this all by own not in school and any courses thankyou 🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
