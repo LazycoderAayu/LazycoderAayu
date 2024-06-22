@@ -1,7 +1,7 @@
 ![gihub](https://github.com/LazycoderAayu/LazycoderAayu/assets/153844634/925633c8-a25c-4b2c-ad97-cd2868f3fec9)
 
 
-<h1 align="center">A passionate frontend developer from India</h1>
+<h1 align="center">A passionate developer from India</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazycoderaayu&label=Profile%20views&color=0e75b6&style=flat" alt="lazycoderaayu" /> </p>
 
