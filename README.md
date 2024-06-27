@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👨‍💻 All of my projects are available at [lazycoderaayu.github.io](lazycoderaayu.github.io)
+- 👨‍💻 All of my projects are available at [lazycoderaayu.github.io](https://lazycoderaayu.github.io/My-all-projetcs-here/) 
 
 - 💬 Ask me about **Any help**
 
