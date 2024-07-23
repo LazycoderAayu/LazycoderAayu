@@ -1,15 +1,15 @@
 ![gihub](https://github.com/LazycoderAayu/LazycoderAayu/assets/153844634/925633c8-a25c-4b2c-ad97-cd2868f3fec9)
 
 
-<h1 align="center">A passionate developer from India</h1>
+<h1 align="center">A passionate developer from Mumbai</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazycoderaayu&label=Profile%20views&color=0e75b6&style=flat" alt="lazycoderaayu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **My Website**
+- 🔭 I’m currently working on **Web developing**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **JS**
 
 - 👨‍💻 All of my projects are available at [lazycoderaayu.github.io](https://lazycoderaayu.github.io/My-all-projetcs-here/) 
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aayushsonkar45@gmail.com**
 
-- ⚡ Fun fact **I study in 8th standard and my age is 13yo but i am topper in IT and i can do so much things   like- programming, coding, designing,web development and many more things. even i learned this all by own not in school or by any courses thankyou 🙃**
+- ⚡ Fun fact **I study in 9th standard and my age is 14yrs i can do so much things   like- programming, coding, designing,web development and many more things. even i learned this all by own not in school or by any courses thankyou 🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
