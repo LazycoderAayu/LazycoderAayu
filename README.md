@@ -18,6 +18,9 @@
 <a href="https://instagram.com/_aayush_tkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aayush_tkd" height="30" width="40" /></a>
 </p>
 
+![Skills_Animation_Dark](https://github.com/user-attachments/assets/bf58b479-f264-4738-a11b-51701becccb9)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazycoderaayu&show_icons=true&locale=en&layout=compact" alt="lazycoderaayu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazycoderaayu&show_icons=true&locale=en" alt="lazycoderaayu" /></p>
