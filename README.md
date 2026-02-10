@@ -24,3 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazycoderaayu&show_icons=true&locale=en" alt="lazycoderaayu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazycoderaayu&" alt="lazycoderaayu" /></p>
+
+---
+> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jrstx3u6alc4sdmrhqjjbgp5i4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false&bar_color=09ff00)](https://github.com/kittinan/spotify-github-profile) 
+
+---
