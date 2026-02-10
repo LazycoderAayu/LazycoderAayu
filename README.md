@@ -24,7 +24,7 @@
 
 ---
 > [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jrstx3u6alc4sdmrhqjjbgp5i4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false&bar_color=09ff00)](https://github.com/kittinan/spotify-github-profile) 
-> <img align="right" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=LazyCoderAayu&year=2026&width=500&height=450&stats=true&credit=true" alt="GitHub Contributions" />
+> <img align="right" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=LazyCoderAayu&year=2026&width=440&height=400&stats=true&credit=true" alt="GitHub Contributions" />
 
 
 ---
