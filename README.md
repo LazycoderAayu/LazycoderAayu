@@ -2,7 +2,6 @@
 
 ![gihub](https://github.com/LazycoderAayu/LazycoderAayu/assets/153844634/925633c8-a25c-4b2c-ad97-cd2868f3fec9)
 
-
 <h1 align="center">Fullstack developing</h1>
 
 
@@ -13,7 +12,7 @@
 
 
 ## 📫 How to Reach Me:
-Feel free to drop me a line at: **`aayushsonkar45@gmail.com`**
+Feel free to drop me a line at: _**`aayushsonkar45@gmail.com`**_
 
 ---
 
@@ -48,7 +47,6 @@ Feel free to drop me a line at: **`aayushsonkar45@gmail.com`**
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-
 ## 🎨 Designing
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
@@ -59,8 +57,6 @@ Feel free to drop me a line at: **`aayushsonkar45@gmail.com`**
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
-
 
 ---
 
